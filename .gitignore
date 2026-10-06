@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/charts/
+models/chart_cnn.pt
+models/faiss_index/

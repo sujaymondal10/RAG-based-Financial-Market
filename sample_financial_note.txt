@@ -1,0 +1,7 @@
+Sample Financial Research Note
+
+This file is only a starter document for the RAG pipeline. Replace it with
+financial reports, filings, earnings notes, or other documents you are
+allowed to use. A chart signal should not be interpreted in isolation:
+consider earnings, valuation, liquidity, volatility, macro conditions,
+company-specific risks, transaction costs, and slippage.
