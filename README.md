@@ -53,13 +53,19 @@ Throughput: Capable of processing 500+ charts per hour.
 
 Response Latency: Maintained an average response time of under 3 seconds, reducing manual research and analysis time by 98.9%.
 
-📦 Visual-Financial-Market-Intelligence
- ┣ 📜 model.py            # Custom Convolutional Neural Network (ChartCNN) architecture
- ┣ 📜 train.py            # Training pipeline with class weighting, AdamW, and early validation tracking
- ┣ 📜 evaluate.py         # Model evaluation script generating classification reports & confusion matrices
- ┣ 📜 rag.py              # Financial RAG engine using LangChain and FAISS local vector store
- ┣ 📜 config.py           # Configuration paths, classes, and environment settings
- ┗ 📜 README.md           # Project documentation
+## Visual-Financial-Market-Intelligence
+
+ ┣ model.py            # Custom Convolutional Neural Network (ChartCNN) architecture
+ 
+ ┣ train.py            # Training pipeline with class weighting, AdamW, and early validation tracking
+ 
+ ┣ evaluate.py         # Model evaluation script generating classification reports & confusion matrices
+ 
+ ┣ rag.py              # Financial RAG engine using LangChain and FAISS local vector store
+ 
+ ┣ config.py           # Configuration paths, classes, and environment settings
+ 
+ ┗ README.md           # Project documentation
 
 ## Core System Components
 1. Visual Technical Analysis (Chart CNN)
