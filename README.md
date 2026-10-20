@@ -1,7 +1,7 @@
 # RAG-based Visual Financial Market Intelligence Platform
 
 End-to-end project:
-Yahoo Finance -> OHLCV -> chart generation -> OpenCV preprocessing ->
+Chart generation -> OpenCV preprocessing ->
 PyTorch CNN -> BUY/HOLD/SELL signal, plus LangChain/FAISS RAG over
 financial TXT/MD/PDF documents -> Streamlit decision-support UI.
 
