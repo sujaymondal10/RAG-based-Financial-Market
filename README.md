@@ -33,7 +33,7 @@ Model probability/confidence is not the same thing as trading accuracy.
 This is decision-support/research software, not a guarantee of returns.
 
 
-## An advanced, AI-powered financial market analysis platform that combines Computer Vision (CV) and Retrieval-Augmented Generation (RAG) to provide automated trading decision support. The system analyzes historical stock price charts using a custom Convolutional Neural Network (CNN) while simultaneously retrieving contextual fundamental data from corporate financial documents via LangChain and FAISS.
+An advanced, AI-powered financial market analysis platform that combines Computer Vision (CV) and Retrieval-Augmented Generation (RAG) to provide automated trading decision support. The system analyzes historical stock price charts using a custom Convolutional Neural Network (CNN) while simultaneously retrieving contextual fundamental data from corporate financial documents via LangChain and FAISS.
 
 ## Tech Stack & Architecture
 Language: Python
